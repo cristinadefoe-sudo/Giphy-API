@@ -17,7 +17,7 @@ The GIPHY API is used to create web page that populates a nature theme. Press an
 
 ## Author
 
-* **Cristina Defoe** - (https://github.com/cristinadefoe)
+* **Cristina Defoe** 
 
 ## Acknowledgments
 
